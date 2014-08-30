@@ -1,0 +1,16 @@
+[
+{
+  "modid": "DonutCraft",
+  "name": "DonutCraft",
+  "description": "Adds Donuts and all sorts of foods and items.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Optimus_Donut"],
+  "credits": "Optimus_Donut and Friends",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
